@@ -11,7 +11,6 @@ import random
 import numpy as np
 import os
 import grid
-import Tkinter as tk
 
 os.environ["SDL_VIDEO_CENTERED"]='1'
 
