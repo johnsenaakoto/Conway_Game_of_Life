@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 28 23:22:51 2021
 
-@author: Chico
+@author: johnsenaakoto
 """
 
 import pygame
